@@ -1,0 +1,16 @@
+{
+  "name": "yachtworld",
+  "owner": {
+    "name": "Boats Group"
+  },
+  "plugins": [
+    {
+      "name": "yachtworld",
+      "source": "./",
+      "description": "Search, compare, and research boats and yachts for sale using live YachtWorld inventory."
+    }
+  ],
+  "metadata": {
+    "description": "YachtWorld plugin for Claude: live yacht and boat listings search and market research."
+  }
+}
