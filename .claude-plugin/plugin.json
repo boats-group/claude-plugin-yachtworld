@@ -5,5 +5,10 @@
   "author": { "name": "Boats Group", "url": "https://www.yachtworld.com" },
   "license": "MIT",
   "icon": "./.claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://www.boatsgroup.com/privacy/"
+  "privacyPolicyUrl": "https://www.boatsgroup.com/privacy/",
+  "supportUrl": "https://www.boatsgroup.com/about-us/contact-us/",
+  "homepage": "https://www.yachtworld.com/",
+  "repository": "https://github.com/boats-group/claude-plugin-yachtworld",
+  "documentationUrl": "https://boattrader-mcp.live.boatsgroup.com/mcp",
+  "termsOfServiceUrl": "https://www.boatsgroup.com/terms-of-use/"
 }
