@@ -2,5 +2,8 @@
   "name": "yachtworld",
   "version": "1.0.0",
   "description": "Search, compare, and research new and used boats and yachts for sale worldwide using live YachtWorld inventory, listings, and asking-price statistics.",
-  "author": { "name": "Boats Group", "url": "https://www.yachtworld.com" }
+  "author": { "name": "Boats Group", "url": "https://www.yachtworld.com" },
+  "license": "MIT",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://www.boatsgroup.com/privacy/"
 }
